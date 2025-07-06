@@ -1,0 +1,9 @@
+0 CPU (Central Processing Unit)
+1 GPU (Graphics Processing Unit)
+2 RAM (Random Access Memory)
+3 Motherboard
+4 Sata SSD
+5 NVMe SSD
+6 HDD
+7 PSU (Power Supply)
+8 Air Cooling
